@@ -1,15 +1,15 @@
 # Release name
 PRODUCT_RELEASE_NAME := n8013
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
+# Inherit some common Bliss stuff.
+$(call inherit-product, vendor/bliss/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/n8013/full_n8013.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := n8013
-PRODUCT_NAME := cm_n8013
+PRODUCT_NAME := bliss_n8013
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := GT-N8013
 PRODUCT_MANUFACTURER := samsung
