@@ -24,8 +24,8 @@
         "revision": "cm-13.0"
     },
     {
-        "remote": "cm",
-        "repository": "android_hardware_samsung",
+        "remote": "github",
+        "repository": "lirokoa/android_hardware_samsung",
         "target_path": "hardware/samsung",
         "revision": "cm-13.0"
     }
