@@ -6,8 +6,8 @@
         "revision": "cm-13.0"
     },
     {
-        "remote": "cm",
-        "repository": "lirokoa/android_kernel_samsung_smdk4412",
+        "remote": "github",
+        "repository": "lirokoa/android_kernel_samsung_n80xx",
         "target_path": "kernel/samsung/smdk4412",
         "revision": "cm-13.0"
     },
