@@ -2,7 +2,7 @@
 PRODUCT_RELEASE_NAME := n8013
 
 # Inherit some common Bliss stuff.
-$(call inherit-product, vendor/bliss/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/bliss/config/common.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/n8013/full_n8013.mk)
