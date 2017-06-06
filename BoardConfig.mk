@@ -28,6 +28,7 @@ TARGET_OTA_ASSERT_DEVICE := c0,p4notewifi,p4notewifiww,n8013,GT-N8013,n8010,GT-N
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n8013/bluetooth
 
 # BlissPop Configs
+BLISS_TABLET := true
 TARGET_TC_ROM := 4.9-linaro
 TARGET_TC_KERNEL := 4.9-linaro
 BLISSIFY := true
