@@ -1,9 +1,9 @@
 [
     {
         "remote": "github",
-        "repository": "lirokoa/android_device_samsung_smdk4412-common",
+        "repository": "BlissRoms-Devices/android_device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
-        "revision": "cm-14.1"
+        "revision": "n7.1"
     },
     {
         "remote": "github",
