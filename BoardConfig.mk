@@ -29,8 +29,8 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n8013/bluetooth
 
 # BlissPop Configs
 BLISS_TABLET := true
-TARGET_TC_ROM := 4.9-linaro
-TARGET_TC_KERNEL := 4.9-linaro
+TARGET_TC_ROM := 4.9
+TARGET_TC_KERNEL := 4.9
 BLISSIFY := true
 BLISS_O3 := true
 BLISS_STRICT := false
